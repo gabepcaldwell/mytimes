@@ -10,3 +10,31 @@
   text-decoration:underline;
   font-weight: bold;
 }
+.picchampagne {
+  background-image: image(resources\images\img-champagne.png);
+  color: white;
+  font-weight: bold;
+}
+.fallpic {
+  background-image: image(resources\images\img-fall.png);
+  color: white;
+  font-weight: bold;
+}
+
+.camerapic {
+  background-image: image(resources\images\img-hipster-camera.png);
+  color: white;
+  font-weight: bold;
+}
+.catpic {
+  background-image: image(resources\images\img-cat-ceo.png);
+  color: white;
+  font-weight: bold;
+}
+.graycolumncontainer {
+  background-color: gray;
+  border-bottom: 1px solid black;
+}
+.footercontainer {
+  background-color: mediumaquamarine;
+}
